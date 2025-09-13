@@ -60,9 +60,9 @@ Estas são algumas das tecnologias e ferramentas com as quais tenho trabalhado:
 
 Estou sempre buscando aplicar o que aprendo. Atualmente, meus esforços estão concentrados em:
 
--   🧬 **Transdutor de DNA para Proteína:** Um projeto acadêmico em Python que utiliza conceitos de autômatos para simular a tradução biológica.
--   🌌 **Web Jogo estilo No Man's Sky:** Aprimorando um projeto da faculdade com `TypeScript`, `HTML/CSS` e `Node.js` para criar uma experiência interativa.
--   💰 **Sistema Bancário com Flet:** Um projeto pessoal em Python para desenvolver uma interface de sistema bancário, explorando a biblioteca Flet para GUIs.
+-   🧬 **[Transdutor de DNA para Proteína](https://github.com/reali-705/tradutor-generico):** Um projeto acadêmico em Python que utiliza conceitos de autômatos para simular a tradução biológica.
+-   🌌 **[Web Jogo estilo No Man's Sky](https://github.com/reali-705/NoManSky):** Aprimorando um projeto da faculdade com `TypeScript`, `HTML/CSS` e `Node.js` para criar uma experiência interativa.
+-   💰 **[Sistema Bancário com Flet](https://github.com/reali-705/Sistema_Bancario_Flet):** Um projeto pessoal em Python para desenvolver uma interface de sistema bancário, explorando a biblioteca Flet para GUIs.
 
 ---
 
