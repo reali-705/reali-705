@@ -1,8 +1,22 @@
-# Olá, eu sou o Alessandro Reali! 👋
+# Olá, eu sou o Alessandro Reali!
 
-Sou estudante de Ciência da Computação na Universidade Federal do Pará (UFPA), onde minha curiosidade pela programação cresce a cada novo projeto. Minha principal motivação é usar a tecnologia para **criar soluções práticas e automatizadas** para problemas do nosso cotidiano.
+<div align="center">
+  
+  **Estudante de Ciência da Computação | UFPA**
+  
+  *Apaixonado por criar soluções tecnológicas que fazem a diferença*
+  
+</div>
 
-Atualmente, estou explorando com grande interesse as áreas de **desenvolvimento Back-end**, **Análise de Dados** e **Engenharia de Software**.
+## 🎯 Sobre Mim
+
+Sou estudante de Ciência da Computação na **Universidade Federal do Pará (UFPA)**, onde minha curiosidade pela programação cresce a cada novo projeto. Minha principal motivação é usar a tecnologia para **criar soluções práticas e automatizadas** para problemas do nosso cotidiano.
+
+### 🔍 Áreas de Interesse
+- 🖥️ **Desenvolvimento Back-end**
+- 📊 **Análise de Dados** 
+- 🔧 **Engenharia de Software**
+- 🌐 **Desenvolvimento Full-Stack**
 
 ---
 
@@ -58,31 +72,34 @@ Atualmente, estou explorando com grande interesse as áreas de **desenvolvimento
 
 ---
 
+## 🌟 Projetos em Destaque
+
 ### 🌱 No Que Estou Trabalhando Agora
 
 Estou sempre buscando aplicar o que aprendo. Atualmente, meus esforços estão concentrados em:
 
 -   🧬 **[Transdutor de DNA para Proteína](https://github.com/reali-705/tradutor-generico):** Um projeto acadêmico em Python que utiliza conceitos de autômatos para simular a tradução biológica.
 -   🌌 **[Web Jogo estilo No Man's Sky](https://github.com/reali-705/NoManSky):** Aprimorando um projeto da faculdade com `TypeScript`, `HTML/CSS` e `Node.js` para criar uma experiência interativa.
+-    **[Kanban App](https://github.com/reali-705/kanban-app):** Sistema de gerenciamento de tarefas com interface intuitiva para organização de projetos usando metodologia Kanban.
 -   💰 **[Sistema Bancário com Flet](https://github.com/reali-705/Sistema_Bancario_Flet):** Um projeto pessoal em Python para desenvolver uma interface de sistema bancário, explorando a biblioteca Flet para GUIs.
 
 ---
 
-### 🎯 Meus Objetivos e Foco de Estudo
+## 🎯 Meus Objetivos e Foco de Estudo
 
 Embora eu esteja explorando diversas facetas da computação, meus objetivos atuais são práticos e focados no aprendizado contínuo:
 
--   **Qualidade de Código:** Aprofundar meus conhecimentos sobre boas práticas, como modularização, eficiência e clareza para facilitar a colaboração.
--   **Melhoria Contínua:** Aperfeiçoar projetos existentes, refatorando e otimizando o código para melhorar a performance e a manutenibilidade.
--   **Infraestrutura e Redes:** Montar um servidor caseiro para entender na prática a comunicação entre computadores, inspirado pela minha experiência de estágio.
--   **Impacto Social:** Ser capaz de desenvolver soluções digitais que resolvam problemas reais da sociedade.
+### 🔧 Desenvolvimento Técnico
+-   **Qualidade de Código:** Aprofundar conhecimentos em boas práticas, modularização e eficiência
+-   **Melhoria Contínua:** Refatorar e otimizar projetos existentes para melhor performance
+
+### 🌐 Infraestrutura & Sistemas  
+-   **Infraestrutura e Redes:** Montar servidor caseiro para compreender comunicação entre sistemas
+-   **DevOps:** Explorar práticas de integração e deploy contínuo
+
+### 🌍 Impacto & Propósito
+-   **Impacto Social:** Desenvolver soluções digitais que resolvam problemas reais da sociedade
+-   **Colaboração:** Contribuir para projetos open source e comunidades de desenvolvedores
 
 ---
-
-### 📫 Conecte-se Comigo
-
-<p align="left">
-<a href="https://www.linkedin.com/in/alessandro-reali-206476238/" target="_blank" rel="noreferrer">
-  <img align="center" alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge" />
-</a>
-</p>
+---
