@@ -1,15 +1,11 @@
 <!-- markdownlint-disable MD033 -->
 # Olá, eu sou o Alessandro Reali 👋
 
-<center>
-  
-## **Estudante de Ciência da Computação (UFPA)**
-  
-### *Desenvolvedor Backend & Entusiasta de Engenharia de Software*
-  
-  📍 Belém, Pará, Brasil
-  
-</center>
+## Estudante de Ciência da Computação (UFPA)
+
+### Desenvolvedor *Backend* & Entusiasta de Engenharia de *Software*
+
+> 📍 Belém, Pará, Brasil
 
 ---
 
